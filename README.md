@@ -2,12 +2,13 @@
 
 :point_right: JavaScript + Java + Oracle 웹페이지
 
+<img src="https://user-images.githubusercontent.com/117346671/228162858-cd024609-e84b-4c0c-8cf2-bbb4e7f9c303.PNG" width="600"/>
+
 ![캡처1](https://user-images.githubusercontent.com/117346671/228161248-eb01b212-04e9-4ce1-8ff8-cf2ef37f60e3.PNG)
 
 ![캡처2](https://user-images.githubusercontent.com/117346671/228161268-456ad7ec-cd70-4056-a9fd-d72b9693475a.PNG)
 
 ![캡처3](https://user-images.githubusercontent.com/117346671/228161281-20d2f7d0-4061-424d-a8e9-55e30b556b67.PNG)
-
 
 ## :memo:기능
 + 메인페이지, 상세페이지와 포트폴리오 페이지 구현
